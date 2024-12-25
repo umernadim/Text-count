@@ -1,0 +1,1 @@
+An interactive web application that allows users to input text and see the character and word count in real-time. This project serves as a practice tool for understanding and implementing text counting functionality with HTML, CSS, and JavaScript
